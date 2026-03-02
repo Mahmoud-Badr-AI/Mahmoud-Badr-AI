@@ -1,72 +1,28 @@
-<h1 align="center">Mahmoud Badr</h1>
-<p align="center">
-AI Engineer in Progress • NLP Specialization Track
-</p>
+# Mahmoud Badr 👋
+### 🧠 Aspiring AI & NLP Engineer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header"/>
-</p>
+I am a Software Engineering student at **AMIT**, currently mastering the transition from Python development to AI architectures. My focus is on writing scalable, object-oriented code and designing efficient data systems.
 
 ---
 
-## About
+#### 🛠️ Technical Evolution
+* **Languages:** Python (Advanced OOP & Logic).
+* **Data:** Currently Mastering **SQL & Database Design** 🏗️.
+* **Goal:** Building Deep Learning models for Natural Language Processing (NLP).
 
-Artificial Intelligence engineer in training, building a strong software foundation before specializing in Natural Language Processing.
-
-Focused on writing clean, scalable code and understanding the mathematical and algorithmic principles behind intelligent systems.
-
----
-
-## Engineering Stack
-
-**Core Programming**
-- Python
-- Object-Oriented Programming
-- Data Structures (in progress)
-
-**Data & Systems**
-- SQL
-- Database Design
-- Data Handling
-
-**Workflow**
-- Git
-- GitHub
+#### 🚀 Learning Roadmap
+- [x] **Phase 1:** Python Fundamentals & Object-Oriented Programming.
+- [ ] **Phase 2:** Database Systems & Data Integrity (Current Focus).
+- [ ] **Phase 3:** Mathematics for AI & Data Analysis.
+- [ ] **Phase 4:** NLP Foundations (NLTK, SpaCy, Transformers).
 
 ---
 
-## NLP Focus Areas
-
-- Text Preprocessing Pipelines
-- Tokenization & Embeddings
-- Statistical & Neural NLP
-- Text Classification
-- Sentiment Analysis
-- Language Models
-- LLM Applications
-
----
-
-## Current Development Path
-
-Python → OOP → Databases → DSA → Machine Learning → NLP Engineering
-
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Badr-AI&show_icons=true&hide_border=true&theme=github_dark"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Badr-AI&theme=github-dark&hide_border=true"/>
+#### 📈 Engineering Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Badr-AI&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=555" width="400" />
 </p>
 
 ---
-
-## Vision
-
-Engineering intelligent systems that understand, process, and generate human language with precision.
-
----
-
-📍 Egypt  
-📧 ea6119141@gmail.com
+#### 📫 Connect with me:
+📧 **Email:** [ea6119141@gmail.com](mailto:ea6119141@gmail.com)
